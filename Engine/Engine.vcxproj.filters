@@ -17,11 +17,13 @@
       <Filter>UniversalEngine</Filter>
     </ClInclude>
     <ClInclude Include="src\uepch.h" />
+    <ClInclude Include="src\UniversalEngine\Core\Logging\Log.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\UniversalEngine\UniversalEngine.cpp">
       <Filter>UniversalEngine</Filter>
     </ClCompile>
     <ClCompile Include="src\uepch.cpp" />
+    <ClCompile Include="src\UniversalEngine\Core\Logging\Log.cpp" />
   </ItemGroup>
 </Project>

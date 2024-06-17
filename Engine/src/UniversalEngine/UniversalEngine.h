@@ -1,5 +1,7 @@
 #pragma once
 
+#include "Core/Logging/Log.h"
+
 namespace UniversalEngine {
 	
 	class Engine
